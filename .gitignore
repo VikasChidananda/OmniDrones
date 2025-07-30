@@ -151,3 +151,10 @@ examples/*.mp4
 
 # sphinx docs output
 docs/html
+
+
+
+# add folders to ignore
+isaaclab-1/*
+/rl*
+/tensordict*
